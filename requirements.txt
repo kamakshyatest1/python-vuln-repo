@@ -1,0 +1,5 @@
+
+# Vulnerable dependencies (example)
+Flask==1.0  # Flask 1.0 has known security issues
+requests==2.19.1  # Older version of requests has security vulnerabilities
+PyYAML==3.13  # PyYAML versions before 4.2b1 have security issues
